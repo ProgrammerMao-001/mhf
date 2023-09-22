@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_web"]=self["webpackChunkmy_web"]||[]).push([[900],{1964:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var r=function(){var e=this,n=e._self._c;return n("div",[e._v("工作经历")])},u=[],c={name:"workExperience",components:{},props:{},data(){return{}},methods:{},created(){},mounted(){}},s=c,o=t(1001),a=(0,o.Z)(s,r,u,!1,null,"3c162711",null),l=a.exports}}]);
+//# sourceMappingURL=workExperience.f0c7c27d.js.map

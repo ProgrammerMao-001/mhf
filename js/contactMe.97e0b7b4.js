@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_web"]=self["webpackChunkmy_web"]||[]).push([[984],{2516:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=function(){var e=this,n=e._self._c;return n("div",[e._v("联系我")])},r=[],a={name:"contactMe",components:{},props:{},data(){return{}},methods:{},created(){},mounted(){}},c=a,s=t(1001),o=(0,s.Z)(c,u,r,!1,null,"36b4923a",null),l=o.exports}}]);
+//# sourceMappingURL=contactMe.97e0b7b4.js.map
